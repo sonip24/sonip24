@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @sonip24
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+sonip24/sonip24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->Hi, I am @Samuel 
+I am interested in R Programming and Data Analysis
+I can be reached at sonip24@yahoo.com
+Thank you!
